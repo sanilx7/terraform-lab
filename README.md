@@ -1,0 +1,1 @@
+Practicing Terraform on Azure Cloud
